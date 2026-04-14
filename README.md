@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as an Intern<br>🔭 curious about llms devops tools such as docker, kubernetes, openshift, ansible and learning deep into these tools
+Devops Engineer<br>🔭 curious about llms dev tools such as docker, kubernetes, openshift, ansible and learning deep into these tools
 
 
 ## 🌐 Socials:
