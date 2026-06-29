@@ -56,32 +56,10 @@ DevOps Engineer focused on building reliable, scalable infrastructure. I work da
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mdhussain28&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdhussain28&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhussain28&theme=dark&hide_border=true&layout=compact&count_private=true)
 
 </div>
 
----
 
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mdhussain28&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## Top contributed repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mdhussain28&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-<sub>Built with focus · Always learning · Open to collaboration</sub>
-</div>
